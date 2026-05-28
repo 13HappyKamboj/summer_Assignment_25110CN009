@@ -15,6 +15,4 @@ int main(){
     printf("Factorial of %d is : %d", num, fact);
 
     return 0;
-
-
 }

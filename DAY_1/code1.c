@@ -17,5 +17,4 @@ int main(){
     printf("Sum of the first %d natural numbers : %d", num, sum);
 
     return 0;
-    
 }
